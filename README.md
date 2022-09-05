@@ -2,7 +2,7 @@
 :computer: :smiley: :computer: 
 </h1>
 <h3>
-I am Currently Working as Data Science Intern at Deloitte Haskins & Sells LLP.
+Data Science Intern at Deloitte Haskins & Sells LLP.
 </h3>
 <hr>
 <h3><i>Follow me to stay updated with awesome content</h3>
@@ -17,21 +17,13 @@ I am Currently Working as Data Science Intern at Deloitte Haskins & Sells LLP.
 
 <h2>Connect With Me :handshake: </h2>
 <p>
-  <a href = "https://www.linkedin.com/in/vineethm1627/"> Linkedin </a> <span> | </span>
-  <a href = "https://medium.com/@vinscoder1627/"> Medium </a> <span> | </span>
-  <a href = "https://vineethm.hashnode.dev/"> HashNode </a> <span> | </span>
-  <a href = "https://auth.geeksforgeeks.org/user/vineethm1627/practice/"> GeeksForGeeks </a> <span> | </span>
-  <a href = "https://www.codechef.com/users/mv3451"> CodeChef </a> <span> | <span>
-  <a href = "https://leetcode.com/vinscoder1627/"> LeetCode </a> <span> | <span>
-  <a href = "https://www.interviewbit.com/profile/vineethm1627/solved-problems"> InterviewBit </a> <span> | </span>
-  <a href = "https://hackerrank.com/mvineeth"> HackerRank </a>  
+  <a href = "https://www.linkedin.com/in/sai-gunavanth/"> Linkedin </a> <span> | </span>
+  <a href = "https://starman11.medium.com/"> Medium </a> <span> | </span>
+  <a href = "https://www.hackerrank.com/saigunavanth11?hr_r=1"> HackerRank </a>  
   
 </p>
 <hr>
-  <h4> My C++ Solutions for Striver's SDE Sheet (30 days challenge): https://github.com/vineethm1627/SDE_Sheet_Striver </h4>
-  <h4> Visit my portfolio Website: https://vineethm.netlify.app </h4>
-  <h4> Check out my articles on Competitive Programming: https://vineethm.hashnode.dev </h4>
-  <h4> View my Certification Badges on Credly: https://www.credly.com/users/vineeth-m.c1432dd5 </h4>
+  <h4> View my Certification Badges on Credly: https://www.credly.com/users/b-sai-gunavanth/ </h4>
 <hr>
   
 ---
@@ -39,6 +31,6 @@ I am Currently Working as Data Science Intern at Deloitte Haskins & Sells LLP.
 
 [![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@vinscoder1627&type=horizontal)](https://medium.com/@vinscoder1627)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineethm1627&show_icons=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saigunavanth&show_icons=true&count_private=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethm1627&layout=compact&count_private=true&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saigunavanth&layout=compact&count_private=true&theme=radical&langs_count=10)

@@ -1,5 +1,5 @@
 <h1>Hello, my name is Sai Gunavanth <br>
-:computer: :smiley: :computer: 
+:computer: :smiley:  
 </h1>
 <h3>
 Data Science Intern at Deloitte Haskins & Sells LLP.

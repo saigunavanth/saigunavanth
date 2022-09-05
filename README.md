@@ -29,7 +29,7 @@ Data Science Intern at Deloitte Haskins & Sells LLP.
 ---
 ### My blogs :books: 
 
-[![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@vinscoder1627&type=horizontal)](https://medium.com/@vinscoder1627)
+[![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@starman11&type=horizontal)](https://medium.com/@starman11)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saigunavanth&show_icons=true&count_private=true&theme=radical)
 

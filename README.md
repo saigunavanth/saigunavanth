@@ -10,18 +10,10 @@ I am Currently Working as Data Science Intern at Deloitte Haskins & Sells LLP.
 
 <h2>About Me :book: </h2>
 
-- :repeat:"Strong intuitions come with strong applied knowledge." <br>
-- :spiral_calendar:Disciplined, Time bound, works out everything will full dedication and focus. <br>
-- :scroll: DSA and problem solving enthusiant. <br>
-- :infinity: In love with Mathematics and Algorithms. <br>
-- :100: Constant & consistent learner forever. 
+- :repeat:"Problem Solver" <br>
+- :infinity: In love with Backend Development. <br>
+- :100:Consistent learner. 
 
-<h2> Current Goals 🔭 </h2>
-
-- Practice Data Structures and Algorithms problems.
-- Learn advanced algorithms.
-- Learn Web Development and build applications using the MERN stack.
-- Learn and practice various Backend and System Design concepts.
 
 <h2>Connect With Me :handshake: </h2>
 <p>

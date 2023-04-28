@@ -1,9 +1,7 @@
 <h1>Hello, my name is Sai Gunavanth <br>
 :computer: :smiley:  
 </h1>
-<h3>
-Data Science Intern at Deloitte Haskins & Sells LLP.
-</h3>
+
 <hr>
 <h3><i>Follow me to stay updated with awesome content</h3>
 <img align="right" alt="GIF" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="270" width = '400' />
